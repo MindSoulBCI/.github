@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/MindSoulBCI/MindSoul/main/mindsoul-logo.png" width="150" alt="MindSoul"></p>
 
-# MindSoul · 脑机接口与空间计算研究
+# MindSoul脑机接口的操作系统（BCI基座大模型）
 
 **成都（上海）脑云矩阵科技有限公司**
 
