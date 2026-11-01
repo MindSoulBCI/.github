@@ -8,6 +8,20 @@ Transformer-based neural decoding, non-invasive brain–computer interfaces and 
 
 MindSoul 团队研究脑机接口操作系统、Transformer 神经解码模型、多模态标注与跨平台交互。模型介绍已发布；权重、评测与客户端源码按路线图逐步公开。
 
+
+<!-- mindsoul-experience-photos:start -->
+## 脑机接口与空间计算 · 体验照片
+
+团队提供的现场与体验照片，展示 EEG 电极帽与空间计算头显的组合佩戴。
+
+<p align="center"><img src="https://raw.githubusercontent.com/MindSoulBCI/MindSoul/main/assets/team-photos/bci-xr-demo.png" width="720" alt="现场展示 / Live demonstration"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/MindSoulBCI/MindSoul/main/assets/team-photos/bci-xr-experience-01.jpg" width="720" alt="体验记录 01 / Experience 01"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/MindSoulBCI/MindSoul/main/assets/team-photos/bci-xr-experience-02.png" width="720" alt="体验记录 02 / Experience 02"></p>
+
+<!-- mindsoul-experience-photos:end -->
+
 ## Projects / 项目
 
 - [MindSoul — Research roadmap / 研究主页](https://github.com/MindSoulBCI/MindSoul)
