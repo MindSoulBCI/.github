@@ -45,3 +45,11 @@ Android XR · visionOS · PICO OS 6 · PC
 ## English documentation
 
 [Read the research homepage in English](https://github.com/MindSoulBCI/MindSoul/blob/main/README.en.md). Model weights and benchmark results are forthcoming; introduction pages are available on Hugging Face.
+
+<!-- mindsoul-personal-socials:start -->
+## Kevin Zhang · 个人社交主页
+
+- [X / Twitter — Kevin Zhang](https://x.com/zhngjny52976818)
+- [LinkedIn — Jinyi Zhang / Kevin Zhang](https://www.linkedin.com/in/jinyi-zhang-7b096b124/)
+
+<!-- mindsoul-personal-socials:end -->
